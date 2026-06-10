@@ -4,6 +4,18 @@ title: Changes in C-LAEF 1k suite
 nav_order: 8
 ---
 
+### 10.06.2026 09 UTC
+- Update of the suite. FC2sqlite included and modifications to transfer to ARSO. Current commit is: 1682ddc14aa52454819d69ed6c8bc194ac842cd1
+  - - <https://github.com/C-LAEF/claef_1k/pull/175>
+  - <https://github.com/C-LAEF/claef_1k/pull/174>
+  - <https://github.com/C-LAEF/claef_1k/pull/173>
+  - <https://github.com/C-LAEF/claef_1k/pull/172>
+
+
+### 19.05.2026
+- Start of warm up phase. Some technical updates were included. 
+  - <https://github.com/C-LAEF/claef_1k/pull/167>
+
 ### 17.02.2026 09 UTC
 - Start of technical test period. System was updated including long ctrl runs to replace some members, optimized facat and some minor fixes.
   - <https://github.com/C-LAEF/claef_1k/pull/143>
